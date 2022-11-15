@@ -1,0 +1,27 @@
+
+table, th, td{
+    border: 1px solid;
+    margin: 5px;
+}
+
+td, th{
+  width: 90px;
+}
+
+th{
+  background-color: black;
+  color: white;
+}
+
+.gray{
+  background: slateGray;
+  text-align: center;
+}
+
+.tan{
+  background: #dfcfbe;
+}
+
+.rosyBrown{
+  background: rosyBrown;
+}
